@@ -1,0 +1,5 @@
+def isPalindrome(str) {
+    str == str.reverse()
+}
+
+println isPalindrome("racecar")
